@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from "framer-motion";
 import { Play, Video } from 'lucide-react';
 import { SectionHeader } from './ui/SectionHeader';
 
