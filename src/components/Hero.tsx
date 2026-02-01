@@ -1,4 +1,4 @@
-import { motion, useScroll, useTransform } from 'motion/react';
+import { motion, useScroll, useTransform } from "framer-motion";
 import { ArrowRight, Phone, Award } from 'lucide-react';
 import heroImage from 'figma:asset/6f3ef862bde3edea80078f452d9b3803268921c7.png';
 
